@@ -8,7 +8,7 @@
   "host": "restapi-production-2fce.up.railway.app",
   "basePath": "/",
   "schemes": [
-    "http"
+    "https"
   ],
 
   "securityDefinitions": {
