@@ -15,9 +15,10 @@
   },
   "production": {
     "username": "root",
-    "password": "root",
-    "database": "northwind",
-    "host": "127.0.0.1",
-    "dialect": "mysql"
+    "password": "hfBD1dCA1hC5CD5cfb2D4AFEefHe6d66",
+    "database": "railway",
+    "host": "viaduct.proxy.rlwy.net",
+    "dialect": "mysql",
+    "port": "14356"
   }
 }
